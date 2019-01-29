@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Permanent+Marker");
+@import url("https://fonts.googleapis.com/css?family=Patrick+Hand");
+.App {
+  font-family: "Patrick Hand", cursive;
+  text-align: center;
+}
+body {
+  margin: 0;
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+h1 {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  font-size: 70px;
+  font-family: "Permanent Marker", cursive;
+  color: #ff6666;
+}
